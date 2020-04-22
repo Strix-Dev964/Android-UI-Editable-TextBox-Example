@@ -1,0 +1,2 @@
+rootProject.name='Strix - Editable TextView Example'
+include ':app'
